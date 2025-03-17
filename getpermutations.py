@@ -1,10 +1,8 @@
-def get_permutations(txt):
+def get_permutations(txt=str):
     listoftxt = []
-    if len(listoftxt)==1:
-        return listoftxt
-    rightsideoflist =
-    leftsideoflist =
+    right_to_the_before=
+    left_to_the_before =
     listoftxt.append(txt[len(-1:)])
-    return get_permutations    
+    return list[]=get_permutations    
 
 

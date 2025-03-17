@@ -2,8 +2,10 @@ def get_permutations(txt):
     listoftxt = []
     if len(listoftxt)==1:
         return listoftxt
-    for i in range(len(txt)):
-        listoftxt.append(txt[i])
+    rightsideoflist=
+    leftsideoflist =
+
+        listoftxt.append(txt[len(-1:)])
     return get_permutations    
 
 
